@@ -1,2 +1,2 @@
-# Consultorio-Medico-Backend
+# Clinica-Medico-Backend
 Clinica Médica - Backend
